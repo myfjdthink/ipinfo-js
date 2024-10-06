@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ipaddr.js": "^2.2.0",
+    "mongodb": "^4.17.2"
+  }
+}
